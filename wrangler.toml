@@ -1,6 +1,3 @@
 name = "serv"
 main = "worker.js"
 compatibility_date = "2026-09-10"
-
-[nodejs_compat]
-# Включает совместимость с Node.JS по новому стандарту Cloudflare
