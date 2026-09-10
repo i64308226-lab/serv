@@ -1,1 +1,6 @@
+name = "serv"
 main = "worker.js"
+compatibility_date = "2026-09-10"
+
+[compatibility_flags]
+nodejs_compat = true
